@@ -1,0 +1,10 @@
+# Good programing practice
+
+* Name your variables wisely! If your variable is supposed to store the sum of a calculation, maybe you want to call it `sum_result`, for instance, so you can have a better idea of what content is stored in this variable. The usage of underscores to name variables is a good option, so we encourage you to follow this procedure. More importantly, once you choose a specific way to wisely name your variables, be consistent. Remember that code is like hand-writing: you would not change your hand-writing from one day to another, so do not do this with your coding style neither :smile: 
+
+* If you have any questions, remember to visit [StackOverflow](https://stackoverflow.com/questions/tagged/r). It is very likely that someone else has already had the same question you have and asked it in StackOverflow, which means that you have many chances to find there the answer to your question.
+
+* Before typing a command, ***comment*** what this command does and why you are using it in the previous line starting with a `#`. Be concise, but give as many details as you need to explain why you are using this command and what it does. You might find it a bit tedious, although it is a good practice to get used to when you start programming. Think of a comment as a note for yourself and anyone reading the code. For instance, think about your future you reading a code you wrote 5 years ago in a project you have not been working on for a while. You do not want to spend hours trying to figure out why you wrote the code like this and why you used X function to do Y task, etc. Furthermore, if you are sharing your code with collaborators/supervisors/colleagues/friends/anyone, useful comments will help them to go through your code and understand how it works much easier. Therefore, make yourself, the people around you, and your future you a favour and comment your code :smile:
+<p align="center">
+  <img width="500" height="500" src="https://github.com/sabifo4/RnBash/blob/master/figs/thm_coding.png">
+</p>
