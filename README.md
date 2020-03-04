@@ -9,7 +9,7 @@ in case you have never opened the terminal before.
 ## R
 We are going to learn how to program in R, so you need to first download and install the corresponding software before attending the workshop.   
 
-   * [How to install R and RStudio](https://github.com/sabifo4/RnBash/blob/master/R_installation/Installing_R.md)   
+   * [How to install R and RStudio](https://github.com/sabifo4/RnBash/blob/master/R_installation/README.md)   
 
 ## Good programming practice
 
