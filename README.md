@@ -3,7 +3,7 @@ This repository contains the material for the first part of the series of the SR
 
 ## Bash
 If you are a Mac OS or a Linux user, you will already have access to the terminal. However, if you are a Windows user, we recommend you follow the instructions given [here](https://github.com/sabifo4/RnBash/blob/master/UNIX_terminal/README.md) 
-so you are ready to follow the `Introduction to Bash scriptin` session during the first part of this workshop. For Mac OS and Linux users, we have added an explanation of how you can open the terminal at the end of the link provided above 
+so you are ready to follow the `Introduction to Bash scripting` session during the first part of this workshop. For Mac OS and Linux users, we have added an explanation of how you can open the terminal at the end of the link provided above 
 in case you have never opened the terminal before.
 
 ## R
